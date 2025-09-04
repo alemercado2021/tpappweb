@@ -1,0 +1,127 @@
+[
+  {
+    "id": 1,
+    "id_usuario": 1,
+    "fecha": "2025-09-01T10:15:00Z",
+    "total": 67000,
+    "productos": [
+      { "id_producto": 1, "cantidad": 1 },
+      { "id_producto": 6, "cantidad": 1 }
+    ],
+    "pagado": true,
+    "entrega_a_domicilio": true,
+    "metodo_pago": "Tarjeta de crédito"
+  },
+  {
+    "id": 2,
+    "id_usuario": 2,
+    "fecha": "2025-09-01T12:45:00Z",
+    "total": 80000,
+    "productos": [
+      { "id_producto": 2, "cantidad": 1 }
+    ],
+    "pagado": true,
+    "entrega_a_domicilio": false,
+    "metodo_pago": "Transferencia bancaria"
+  },
+  {
+    "id": 3,
+    "id_usuario": 3,
+    "fecha": "2025-09-02T09:30:00Z",
+    "total": 44000,
+    "productos": [
+      { "id_producto": 16, "cantidad": 2 }
+    ],
+    "pagado": false,
+    "entrega_a_domicilio": true,
+    "metodo_pago": "Efectivo"
+  },
+  {
+    "id": 4,
+    "id_usuario": 4,
+    "fecha": "2025-09-02T16:10:00Z",
+    "total": 60000,
+    "productos": [
+      { "id_producto": 3, "cantidad": 1 }
+    ],
+    "pagado": true,
+    "entrega_a_domicilio": true,
+    "metodo_pago": "Tarjeta de débito"
+  },
+  {
+    "id": 5,
+    "id_usuario": 5,
+    "fecha": "2025-09-03T11:05:00Z",
+    "total": 27000,
+    "productos": [
+      { "id_producto": 15, "cantidad": 1 }
+    ],
+    "pagado": false,
+    "entrega_a_domicilio": false,
+    "metodo_pago": "Efectivo"
+  },
+  {
+    "id": 6,
+    "id_usuario": 6,
+    "fecha": "2025-09-03T14:40:00Z",
+    "total": 125000,
+    "productos": [
+      { "id_producto": 4, "cantidad": 1 },
+      { "id_producto": 9, "cantidad": 1 }
+    ],
+    "pagado": true,
+    "entrega_a_domicilio": true,
+    "metodo_pago": "Tarjeta de crédito"
+  },
+  {
+    "id": 7,
+    "id_usuario": 7,
+    "fecha": "2025-09-03T18:20:00Z",
+    "total": 35000,
+    "productos": [
+      { "id_producto": 7, "cantidad": 1 }
+    ],
+    "pagado": true,
+    "entrega_a_domicilio": false,
+    "metodo_pago": "MercadoPago"
+  },
+  {
+    "id": 8,
+    "id_usuario": 8,
+    "fecha": "2025-09-04T09:00:00Z",
+    "total": 46000,
+    "productos": [
+      { "id_producto": 5, "cantidad": 1 },
+      { "id_producto": 17, "cantidad": 1 }
+    ],
+    "pagado": false,
+    "entrega_a_domicilio": true,
+    "metodo_pago": "Transferencia bancaria"
+  },
+  {
+    "id": 9,
+    "id_usuario": 9,
+    "fecha": "2025-09-04T15:15:00Z",
+    "total": 56000,
+    "productos": [
+      { "id_producto": 18, "cantidad": 2 },
+      { "id_producto": 20, "cantidad": 1 }
+    ],
+    "pagado": true,
+    "entrega_a_domicilio": true,
+    "metodo_pago": "Tarjeta de débito"
+  },
+  {
+    "id": 10,
+    "id_usuario": 10,
+    "fecha": "2025-09-04T20:30:00Z",
+    "total": 88000,
+    "productos": [
+      { "id_producto": 8, "cantidad": 1 },
+      { "id_producto": 10, "cantidad": 1 }
+    ],
+    "pagado": true,
+    "entrega_a_domicilio": false,
+    "metodo_pago": "MercadoPago"
+  }
+]

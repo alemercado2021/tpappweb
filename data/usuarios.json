@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "nombre": "Alejandro",
+    "apellido": "Mercado",
+    "email": "alejandro.mercado@gmail.com",
+    "contraseña": "Pass1234",
+    "mayorEdad": true,
+    "direccion": "Sargento Thrall 101, Orgrimmar, Azeroth"
+  },
+  {
+    "id": 2,
+    "nombre": "Francisco",
+    "apellido": "Mansilla",
+    "email": "francisco.mansilla@gmail.com",
+    "contraseña": "Pass1234",
+    "mayorEdad": true,
+    "direccion": "Sargento Thrall 102, Orgrimmar, Azeroth"
+  },
+  {
+    "id": 3,
+    "nombre": "Gonzalo",
+    "apellido": "Ruiz",
+    "email": "gonzalo.ruiz@gmail.com",
+    "contraseña": "Pass1234",
+    "mayorEdad": false,
+    "direccion": "Sargento Thrall 103, Orgrimmar, Azeroth"
+  },
+  {
+    "id": 4,
+    "nombre": "Agustin",
+    "apellido": "Orellana",
+    "email": "agustin.orellana@gmail.com",
+    "contraseña": "Pass1234",
+    "mayorEdad": false,
+    "direccion": "Sargento Thrall 104, Orgrimmar, Azeroth"
+  },
+  {
+    "id": 5,
+    "nombre": "Alejo",
+    "apellido": "Pagliano",
+    "email": "alejo.pagliano@gmail.com",
+    "contraseña": "Pass1234",
+    "mayorEdad": true,
+    "direccion": "Sargento Thrall 105, Orgrimmar, Azeroth"
+  },
+  {
+    "id": 6,
+    "nombre": "Gaspar",
+    "apellido": "Celada",
+    "email": "gaspar.celada@gmail.com",
+    "contraseña": "Pass1234",
+    "mayorEdad": true,
+    "direccion": "Sargento Thrall 106, Orgrimmar, Azeroth"
+  },
+  {
+    "id": 7,
+    "nombre": "Giuliano",
+    "apellido": "Cerutti",
+    "email": "giuliano.cerutti@gmail.com",
+    "contraseña": "Pass1234",
+    "mayorEdad": false,
+    "direccion": "Sargento Thrall 107, Orgrimmar, Azeroth"
+  },
+  {
+    "id": 8,
+    "nombre": "Amanda",
+    "apellido": "Torres",
+    "email": "amanda.torres@gmail.com",
+    "contraseña": "Pass1234",
+    "mayorEdad": false,
+    "direccion": "Sargento Thrall 108, Orgrimmar, Azeroth"
+  },
+  {
+    "id": 9,
+    "nombre": "Agustina",
+    "apellido": "Rojas",
+    "email": "agustina.rojas@gmail.com",
+    "contraseña": "Pass1234",
+    "mayorEdad": true,
+    "direccion": "Sargento Thrall 109, Orgrimmar, Azeroth"
+  },
+  {
+    "id": 10,
+    "nombre": "Federico",
+    "apellido": "Mano",
+    "email": "federico.mano@gmail.com",
+    "contraseña": "Pass1234",
+    "mayorEdad": true,
+    "direccion": "Sargento Thrall 110, Orgrimmar, Azeroth"
+  }
+]
